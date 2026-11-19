@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Repost Cleaner</string>
+    <string name="accessibility_description">Detecta somente a opção de remover republicação na interface do TikTok e pede confirmação antes de tocar nela.</string>
+</resources>
